@@ -1,0 +1,15 @@
+tensorflow==1.15.0
+Pillow
+PyOpenGL
+pyyaml
+matplotlib==2.1.2
+shapely
+pytz
+imageio==2.4.1
+gym==0.18.0
+moviepy
+stable_baselines
+optuna
+sklearn
+requests
+mpi4py
